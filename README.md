@@ -1,4 +1,4 @@
-Selección de ubicaciones de nuevos pozos de petróleo con machine learning en OilyGiant
+## Selección de ubicaciones de nuevos pozos de petróleo con machine learning en OilyGiant
 
 En este proyecto, se busca realizar un análisis para determinar la viabilidad de 200 nuevos pozos petroleros y se necesita identificar las mejores ubicaciones en términos de rentabilidad. Para lograrlo, se analizarán los parámetros de los pozos existentes, se crearán modelos de regresión para predecir las reservas en los nuevos pozos y se elegirá la región con mayor rentabilidad potencial utilizando técnicas como el bootstrapping.
 
